@@ -8,3 +8,13 @@ D:\Demos\Calculator\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cach
 D:\Demos\Calculator\Calculator\obj\Debug\Calculator.exe
 D:\Demos\Calculator\Calculator\obj\Debug\Calculator.xml
 D:\Demos\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\bin\Debug\Calculator.exe.config
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\obj\Debug\Calculator.exe
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\obj\Debug\Calculator.xml
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\obj\Debug\Calculator.pdb
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\bin\Debug\Calculator.exe
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\bin\Debug\Calculator.pdb
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\bin\Debug\Calculator.xml
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\obj\Debug\Calculator.Form1.resources
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\obj\Debug\Calculator.Resources.resources
+D:\Demos\Calculator\developer1\DemoGitExtension\Calculator\obj\Debug\Calculator.vbproj.GenerateResource.Cache

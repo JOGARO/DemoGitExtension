@@ -33,11 +33,11 @@ Partial Class Form1
         '
         'btnCalcular
         '
-        Me.btnCalcular.Location = New System.Drawing.Point(102, 154)
+        Me.btnCalcular.Location = New System.Drawing.Point(16, 151)
         Me.btnCalcular.Name = "btnCalcular"
         Me.btnCalcular.Size = New System.Drawing.Size(75, 23)
         Me.btnCalcular.TabIndex = 0
-        Me.btnCalcular.Text = "Calcular"
+        Me.btnCalcular.Text = "Sumar"
         Me.btnCalcular.UseVisualStyleBackColor = True
         '
         'Label1
